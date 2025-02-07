@@ -10,7 +10,8 @@ com Git e GitHub da [Digital Inovation One](https://web.dio.me)
 ## 💻 Resumo das Aulas
 | Aulas | Resumos |
 |-------|---------|
-Gravando Aleterações no Repositório Local | [Resumos]()
+Aula 01| [Resumos]()
+Aula 02 | [Resumos]()
 
 ```
 git init
